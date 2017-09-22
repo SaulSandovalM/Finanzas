@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "876453280283",
+    "firebase_url": "https://finazas-7e923.firebaseio.com",
+    "project_id": "finazas-7e923",
+    "storage_bucket": "finazas-7e923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876453280283:android:55cba0abfcb3f083",
+        "android_client_info": {
+          "package_name": "com.planb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876453280283-bbcvse6v4m8rm8lif9k3uev4lbb4vi47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.planb",
+            "certificate_hash": "dc3fe54f3921b2331368c41ffeafe057934303be"
+          }
+        },
+        {
+          "client_id": "876453280283-7bs5fam1qahgkj4t0s41b342vitvlu2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtdfW83RhkU1hTcVqbKCwq3hlx6kNZ8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876453280283-7bs5fam1qahgkj4t0s41b342vitvlu2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
